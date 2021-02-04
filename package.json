@@ -1,0 +1,27 @@
+{
+  "name": "vanillajs-spa",
+  "version": "1.0.0",
+  "description": "VanillaJS-SPA Project By Creco",
+  "scripts": {
+    "start": "http-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreatiCoding/VanillaJS-SPA.git"
+  },
+  "keywords": [
+    "FrontEnd",
+    "VanillaJS",
+    "SPA",
+    "JavaScript"
+  ],
+  "author": "CreatiCoding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreatiCoding/VanillaJS-SPA/issues"
+  },
+  "homepage": "https://github.com/CreatiCoding/VanillaJS-SPA#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
